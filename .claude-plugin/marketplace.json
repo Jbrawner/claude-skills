@@ -1,0 +1,22 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Jbrawner",
+    "url": "https://github.com/Jbrawner"
+  },
+  "plugins": [
+    {
+      "name": "tld",
+      "description": "Test-Led Development skills for Claude Code — milestone-driven workflow over Linear.",
+      "version": "0.1.0",
+      "homepage": "https://github.com/Jbrawner/tld-skills",
+      "repository": "https://github.com/Jbrawner/tld-skills",
+      "license": "MIT",
+      "source": {
+        "type": "github",
+        "repo": "Jbrawner/tld-skills",
+        "ref": "v0.1.0"
+      }
+    }
+  ]
+}
