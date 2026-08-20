@@ -20,7 +20,7 @@ Then install any bundle below by name:
 
 | Name | What it does | Source |
 |---|---|---|
-| `tld` | Test-Led Development skills — milestone-driven workflow over Linear, hard stops between phases, drift detection against ticket spec | [Jbrawner/tld-skills](https://github.com/Jbrawner/tld-skills) |
+| `tld` | Test-Led Development skills. Milestone-driven workflow over Jira or Linear, hard stops between phases, drift detection against ticket spec | [Jbrawner/tld-skills](https://github.com/Jbrawner/tld-skills) |
 
 After install, every command from a bundle is namespaced under the bundle name (e.g., `tld` becomes `/tld:help`, `/tld:setup`, `/tld:build`, …).
 
