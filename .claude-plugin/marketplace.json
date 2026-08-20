@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "tld",
-      "description": "Test-Led Development skills for Claude Code — milestone-driven workflow over Linear.",
+      "description": "Test-Led Development skills for Claude Code. Milestone-driven workflow over Jira or Linear, with hard stops between phases and drift detection.",
       "version": "0.3.1",
       "homepage": "https://github.com/Jbrawner/tld-skills",
       "repository": "https://github.com/Jbrawner/tld-skills",
